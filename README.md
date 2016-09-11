@@ -17,4 +17,4 @@ Poleg teh podatkov, bomo primerjali še oceno zvrsti tistih knjig, ki so dobile 
 Ogledali si bomo:
 - V katerih stoletjih so knjige dobile najboljše ocene? 
 - Ali so v splošnem vse knjige istih pisateljev podobno ocenjene?
-- Ali se uvrtitev knjig na uradni podelitvi ujema z ocenami na strani?
+- Ali se uvrstitev knjig na uradni podelitvi ujema z ocenami na spletni strani?
