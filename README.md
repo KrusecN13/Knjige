@@ -17,4 +17,4 @@ Poleg teh podatkov, bomo primerjali še oceno zvrsti tistih knjig, ki so dobile 
 Ogledali si bomo:
 - V katerih stoletjih so knjige dobile najboljše ocene? 
 - Kolikšne so povprečne ocene pisateljev?
-- Ali se prvo uvrščene knjige na uradni podelitvi nagrad pojavijo na visokem mestu za najboljšo knjigo stoletja?
+- Ali imajo prvo uvrščene knjige na uradni podelitvi nagrad visoke ocene za najboljšo knjigo stoletja?
