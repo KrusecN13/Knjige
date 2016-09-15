@@ -16,5 +16,5 @@ Poleg teh podatkov, bomo primerjali še oceno zvrsti tistih knjig, ki so dobile 
 ## Predvidena analiza:
 Ogledali si bomo:
 - V katerih stoletjih so knjige dobile najboljše ocene? 
-- Ali so v splošnem vse knjige istih pisateljev podobno ocenjene?
-- Ali se uvrstitev knjig na uradni podelitvi ujema z ocenami na spletni strani?
+- Kolikšne so povprečne ocene pisateljev?
+- Ali se prvo uvrščene knjige na uradni podelitvi nagrad pojavijo na visokem mestu za najboljšo knjigo stoletja?
